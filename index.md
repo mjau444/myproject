@@ -18,7 +18,7 @@ My first analysis compared the interest in intersection of computer science and 
 My second analysis compared the belief that algorithms are objective agains the belief that technology impacts our society. The line shows linear growth until ratings reach 5.0, in which the slope decreases. There is more spread as the belief that technology impacts society increases. I chose to plot these two against each other because the objectivity of algorithms is an important question in research ethics, especially within computer science. I wanted to see if, as the belief that technology impacts society increased, the belief that algorithms were objective would decrease. This is not exactly what I found. While the growth decreased, the line itself consistently increased. 
 
 ## Analysis 3
-<img src="status/analysis3.png" alt="Analysis chart 3." width="500"/>
+<img src="static/analysis3.png" alt="Analysis chart 3." width="500"/>
 My third analysis shows the counts of each rating of the statement "Social issues are relevant to computer scientists and software engineers." This analysis is also very inconclusive. There are close to even numbers of each rating, although there is a slight skew left, indicating that the mean response will be slightly greater than the median response. This could indicate that students do believe that social issues are relevant to computer scientists. I chose to analyze this because, as I have mentioned previously, social issues include ethical issues. 
 
 ## Conclusion
